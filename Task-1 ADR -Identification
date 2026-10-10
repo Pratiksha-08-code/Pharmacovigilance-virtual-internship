@@ -1,0 +1,52 @@
+Task 1: ADR Identification Basics
+
+1. Objective: To identify a potential Adverse Drug Reaction (ADR) by analyzing the patient's symptoms, medication history, and timeline of drug administration.
+
+2. Introduction: Pharmacovigilance is the science of detecting, assessing, understanding, and preventing adverse effects associated with medicines. ADR identification is an important part of pharmacovigilance that involves evaluating clinical symptoms and their possible relationship with a suspected drug.
+
+3. Patient Case Scenario
+Patient details
+- Patient: Female
+- Age: 45 years
+- Suspected medication: Amoxicillin
+
+Presenting symptoms
+- Skin rash
+- Itching
+- Nausea
+- Dizziness
+The patient develops these symptoms in association with the initiation of amoxicillin, as suggested by the case scenario shown in the task image. The medication timeline and clinical history should be reviewed to assess a possible drug-related reaction.
+
+4. Case Assessment:
+A. Symptom Assessment: Skin rash and itching may indicate a possible hypersensitivity reaction. Nausea is a recognized adverse effect associated with amoxicillin. Dizziness also requires clinical evaluation because it may have several possible causes.
+
+B. Suspected Drug:
+Drug name: Amoxicillin
+Drug class: Aminopenicillin antibiotic
+Amoxicillin is considered the suspected drug for assessment because the symptoms are presented in the context of its use. However, the available information does not establish a confirmed causal relationship.
+
+C. Timeline Assessment
+The following details should be established from the complete case history:
+1. Date and time when amoxicillin treatment started.
+2. Time of onset of each symptom.
+3. Whether symptoms were present before treatment.
+4. Whether other medications were taken simultaneously.
+5. Whether symptoms improved after discontinuation, if discontinuation occurred under medical supervision.
+
+D. Possible Alternative Explanations
+Other possible causes, including the underlying illness, concomitant medications, pre-existing conditions, and other allergic triggers, should be considered before attributing the symptoms to amoxicillin.
+
+5. Pharmacovigilance Assessment
+The case should be documented with the available patient information, suspected drug, reported reactions, and chronology of events. Further information is needed to assess causality and determine whether the case meets the criteria for seriousness or requires urgent medical attention.
+A suspected ADR should not be considered confirmed solely because symptoms occurred after medication initiation.
+
+6. Safety Consideration
+A rash accompanied by dizziness may require prompt medical assessment. If the patient experiences breathing difficulty, swelling of the face or throat, fainting, or rapidly worsening symptoms, emergency medical care is necessary.
+
+7. Conclusion
+The case describes a 45-year-old female presenting with skin rash, itching, nausea, and dizziness in the context of amoxicillin use. Amoxicillin is the suspected drug for further assessment. A complete medication history, symptom timeline, and clinical evaluation are required to determine the likelihood of an ADR.
+
+8. References
+1. World Health Organization (WHO). Pharmacovigilance and medicine safety resources.
+2. Uppsala Monitoring Centre (UMC). Resources on adverse drug reaction reporting and causality assessment.
+3. Official prescribing information for amoxicillin.
