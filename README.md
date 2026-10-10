@@ -1,50 +1,48 @@
 # Pharmacovigilance-virtual-internship
 Pharmacovigilance Virtual Internship
 
-About This Repository
+# Pharmacovigilance (PV) Virtual Internship
 
-This repository documents the tasks and learning outcomes completed as part of my Pharmacovigilance Virtual Internship. It focuses on adverse drug reaction (ADR) identification, drug safety assessment, and the fundamental principles of pharmacovigilance.
+## About the Internship
+This repository documents my learning experience and activities during a Pharmacovigilance (PV) Virtual Internship. The internship focuses on understanding drug safety, adverse drug reaction (ADR) monitoring, and the importance of pharmacovigilance in ensuring patient safety.
 
-Internship Objectives
+## Objectives
+- To understand the fundamental concepts and principles of pharmacovigilance.
+- To learn about adverse drug reactions (ADRs) and adverse events (AEs).
+- To understand the process of Individual Case Safety Report (ICSR) management.
+- To gain basic knowledge of case processing, safety documentation, and reporting.
+- To understand the importance of drug safety monitoring and risk management.
+- To develop knowledge of pharmacovigilance guidelines and regulatory requirements.
 
-- Understand the fundamentals of pharmacovigilance and drug safety.
-- Identify potential adverse drug reactions from patient case scenarios.
-- Evaluate symptoms, medication history, and the temporal relationship between drug exposure and adverse events.
-- Develop skills in structured case documentation and safety assessment.
-- Apply theoretical knowledge to practical pharmacovigilance tasks.
+## Key Learning Areas
+- Introduction to Pharmacovigilance
+- Adverse Drug Reaction Identification and Reporting
+- Seriousness, Severity, and Expectedness of Adverse Events
+- Individual Case Safety Report (ICSR) Processing
+- Causality Assessment
+- MedDRA Coding: Basic Concepts
+- Good Pharmacovigilance Practices (GVP)
+- Drug Safety Monitoring and Risk Management
+- Regulatory Guidelines and Patient Safety
 
-Tasks Completed
+## Skills Developed
+- Pharmacovigilance fundamentals
+- Adverse event documentation
+- Medical literature review
+- Drug safety data interpretation
+- Scientific documentation
+- Attention to detail and analytical thinking
+- Understanding of regulatory compliance
 
-Task 1: ADR Identification Basics
+## Internship Activities
+This section can be updated with the actual activities completed during the internship, including learning modules, assignments, case studies, and practical exercises.
 
-Objective: To identify a potential adverse drug reaction by evaluating a patient case scenario.
+## Learning Outcomes
+The internship helped me strengthen my understanding of pharmacovigilance principles and the role of drug safety professionals in identifying, evaluating, and preventing medicine-related risks. It also enhanced my awareness of the importance of accurate safety reporting and regulatory compliance in the pharmaceutical industry.
 
-Key Activities:
+## About Me
+I am an M.Pharm student specializing in Pharmacology, with an interest in pharmacovigilance, clinical research, drug safety, and pharmaceutical research.
 
-- Reviewed the reported symptoms and patient details.
-- Identified amoxicillin as the suspected drug for assessment.
-- Examined the importance of medication history and symptom timelines.
-- Considered possible drug-related reactions and alternative explanations.
-- Documented key pharmacovigilance and patient safety considerations.
+## Disclaimer
+This repository is intended for educational and professional learning purposes only. The content does not replace official regulatory guidance, clinical judgment, or organization-specific pharmacovigilance procedures.
 
-Deliverable: ADR identification and case assessment documentation.
-
-Key Learning Outcomes
-
-- Fundamentals of ADR identification.
-- Importance of medication history and temporal assessment.
-- Identification of suspected drugs and potential adverse reactions.
-- Scientific documentation and patient safety awareness.
-
-Disclaimer
-
-The case assessment is intended for educational purposes only. A suspected drug–reaction association does not establish causality. Clinical decisions should be made by qualified healthcare professionals.
-
-Author
-
-Pratiksha Dinkar
-M.Pharm Pharmacology Student
-
-Keywords
-
-Pharmacovigilance | Drug Safety | Adverse Drug Reactions | ADR Identification | Amoxicillin | Patient Safety
